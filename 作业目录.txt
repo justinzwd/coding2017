@@ -1,0 +1,19 @@
+7-23日作业： 
+结合视频讲解， 实现Bridge模式， Decorator模式， Composite模式， 样板代码点 
+：https://github.com/onlyliuxin/coding2017/tree/master/liuxin/ood/ood-assignment/src/main/java/com/coderising/dp
+
+7-16日作业：
+结合视频讲解，实现Builder模式， 找出3个JDK中的singleton
+https://github.com/onlyliuxin/coding2017/tree/master/liuxin/ood/ood-assignment/src/main/java/com/coderising/dp/builder
+
+7-2日作业：实现薪水支付案例
+
+https://github.com/onlyliuxin/coding2017/tree/master/liuxin/ood/ood-assignment/src/main/java/com/coderising/payroll
+
+6-25日作业： 画出两个系统的UML图， 详情参见ppt
+
+6-18日作业： 重构一个Logger程序，使其符合ocp
+https://github.com/onlyliuxin/coding2017/tree/master/liuxin/ood/ood-assignment/src/main/java/com/coderising/ood/ocp
+
+6-11日作业：重构一个邮件发送系统,使其符合SRP
+https://github.com/onlyliuxin/coding2017/tree/master/liuxin/ood/ood-assignment/src/main/java/com/coderising/ood/srp
